@@ -10,6 +10,11 @@
 	min-height: 400px;
 }
 
+.row-navbar {
+	margin: 0px ;
+	padding: 0px auto;
+}
+
 .footer{
 	background-color: #D1C4E9;
 	margin: 0px auto;
@@ -17,7 +22,7 @@
 }
 
 .jumbotron {
-	padding: 70px 30px 70px 30px;
+	padding: 60px 30px 60px 30px;
 	margin: 0px auto;
 	background: #9575CD;
 	color: florawhite;
@@ -27,4 +32,14 @@
 	font-size: 80%;
 	margin: 0px;
 	color: #0f0f0f;
+}
+
+body {
+	padding: 50px 0px 0px 0px;
+	z-index: 0;
+}
+
+.navbar-dark{
+	background-color: #512DA8;
+
 }
